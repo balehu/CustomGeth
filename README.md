@@ -1,3 +1,14 @@
+# Balehu Custom private netowork
+
+ moodified for simple mining as per these links
+ 
+ https://ethereum.stackexchange.com/questions/2539/how-do-i-decrease-the-difficulty-on-a-private-testnet
+ 
+ https://hackernoon.com/how-to-reduce-block-difficulty-in-ethereum-private-testnet-2ad505609e82
+
+
+
+
 ## Go Ethereum
 
 Official golang implementation of the Ethereum protocol.
